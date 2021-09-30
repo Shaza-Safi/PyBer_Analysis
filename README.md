@@ -13,8 +13,8 @@ By creating visualizations of rideshare data for PyBer this will help improve ac
 
 ### Differences in ride-sharing data among the different city types
 
-
 #### Comparing using the Pyber summary dataframe:
+![pyber_summary_df](https://user-images.githubusercontent.com/88908758/135396616-d1fcb28a-53d4-464d-8643-0d6a19e215bb.PNG)
 
 When comparing using the Pyber summary dataframe you can notice the following:
 
@@ -27,15 +27,16 @@ When comparing using the Pyber summary dataframe you can notice the following:
 - In terms of costs, you can notice a reduction in rides and drivers in Rural cities compared to Urban cities. This can be due to the average fare per ride and per driver is lowest in Urban cities and highest in Rural cities.  
 
 #### Comparing using the multiple line chart:
+![PyBer_fare_summary](https://user-images.githubusercontent.com/88908758/135396683-f50191dc-7219-4900-bcb6-181319dd7ad5.png)
 
-The multiple line chart demonstrates the same conclusion that total fares in Urban cities are highest compared to Suburban and Rural cities. You can notice that Urban line (yellow) is the highes and does not intersect with Suburban nor with Rural. Also the Rural cities line (blue) is the lowest in the graph. This graph demonstrates a period from Jan 2019 to April 2019.
+The multiple line chart demonstrates the same conclusion that total fares in Urban cities are highest compared to Suburban and Rural cities. You can notice that Urban line (yellow) is the highest and does not intersect with Suburban nor with Rural. Also the Rural cities line (blue) is the lowest in the graph. This graph demonstrates a period from Jan 2019 to April 2019.
 
 ## Summary: 
 Based on the results I can provide three business recommendations to the CEO:
 
--There is an another opportunity for further analysis to determine other factors that are contributing to the high ride costs in rural cities and low driver fares in urban cities. Perhaps, travel distance is a key factor.
+- Further analysis to determine other factors that are contributing to the high ride costs in rural cities and low driver fares in urban cities. Perhaps, travel distance is a key factor.
 
--Revisit the Pyber cost per ride in Rural cities as the current pricing will discourage riders from using Pyber and incourage drivers who are limited to get more money out of each trip
+- Revisit the Pyber cost per ride in Rural cities as the current pricing will discourage riders from using Pyber and encourage drivers who are limited to get more money out of each trip
 
-- Revisit the option of hiring more driver in Rural cities in order to not have such supply of drivers and also having drivers closer to requests from riders which should lead to cheaper cost.
+- Revisit the option of hiring more driver in Rural cities in order to not have low supply of drivers and also having drivers closer to pick up location of rider which should lead to reducing cost.
 
